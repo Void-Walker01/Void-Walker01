@@ -37,7 +37,7 @@ I'm a full-stack developer and competitive programmer from **IIT (ISM) Dhanbad**
 
 ---
 
-### 🚀 My Projects
+### 🚀 My Deployed Projects
 
 <table>
   <tr>
