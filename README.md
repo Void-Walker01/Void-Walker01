@@ -71,15 +71,3 @@ I'm a full-stack developer and competitive programmer from **IIT (ISM) Dhanbad**
     <img src="https://skillicons.dev/icons?i=cpp,javascript,react,nodejs,express,mongodb,html,css,tailwind,bootstrap,git,github,postman,vscode" />
   </a>
 </p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Void-Walker01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Void-Walker01&layout=compact&langs_count=8&theme=dracula"/>
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=Void-Walker01&theme=dracula" alt="rohit-guleria" />
-</p>
